@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Florida Geographic Alliance"
 title_separator          : "-"
 name                     : "Your Name"
 description              : "An amazing website."
@@ -77,11 +77,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Ben Thornton"
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "I am passionate about maps, data, and creating great products."
+  location         : "Tallahassee, FL"
+  email            : "benjaminwthornton@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
